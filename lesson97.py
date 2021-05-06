@@ -26,6 +26,6 @@ admin_war.prov(es)
 admin_war.user_info()
 admin_war.show_privileges()
 
-
+admin_sofi = Admin('Sofi', 'veranis', 29)
 
 
