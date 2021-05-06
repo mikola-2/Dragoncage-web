@@ -21,6 +21,10 @@ admin_Bil.prov(es)
 admin_Bil.user_info()
 admin_Bil.show_privileges()
 
+admin_war = Admin ('War', 'Waric', 32)
+admin_war.prov(es)
+admin_war.user_info()
+admin_war.show_privileges()
 
 
 
